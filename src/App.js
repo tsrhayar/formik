@@ -17,7 +17,7 @@ function App() {
     bio: "",
     city: "",
     hobby: "",
-    social: ["Facebook", "Instagram"],
+    social: [],
   };
 
   const validationSchema = Yup.object({
